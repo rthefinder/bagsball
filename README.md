@@ -1,4 +1,5 @@
 # bagsball ⚽
+<img width="2048" height="681" alt="Design sans titre (23)" src="https://github.com/user-attachments/assets/5aa89d10-f522-45a7-9f0c-7297c56e76ae" />
 
 > A flywheel-style meme coin built for the Bags ecosystem, integrating BagsAMM and DividendsBot for automated market making and holder rewards.
 
@@ -44,6 +45,7 @@ Bags is a Solana-native launchpad with built-in infrastructure for fee sharing a
 ---
 
 ## 🚀 Key Features
+<img width="992" height="929" alt="Capture d’écran 2026-01-04 à 23 50 25" src="https://github.com/user-attachments/assets/7079b08e-3916-48db-91c1-0398dcae2012" />
 
 ### Automated Holder Rewards
 
