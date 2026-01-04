@@ -1,4 +1,4 @@
-# bagsball ⚽
+# bagsball 
 <img width="2048" height="681" alt="Design sans titre (23)" src="https://github.com/user-attachments/assets/5aa89d10-f522-45a7-9f0c-7297c56e76ae" />
 
 > A flywheel-style meme coin built for the Bags ecosystem, integrating BagsAMM and DividendsBot for automated market making and holder rewards.
