@@ -7,6 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
+X: https://x.com/bagsballcoin
 
 ## 🎯 What is bagsball?
 
